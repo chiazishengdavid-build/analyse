@@ -21,3 +21,6 @@ The code was constructed using Python, Pandas and MatPlotLib.
 
 ## Code
 ![Python, Pandas and MatPlotLib Code](Asg2_Piechart_Improve_3_Upload.ipynb)
+
+## Dataset
+![Graduate Employment Survey](GraduateEmploymentSurveyNTUNUSSITSMUSUSSSUTD.csv)
