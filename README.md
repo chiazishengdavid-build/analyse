@@ -3,8 +3,9 @@
 
 This was for my second semester assigbment.
 
-It was based on the Data.gov.sg, Graduate Employment Survey Dataset
-https://data.gov.sg/datasets?query=graduate+employment&page=1&resultId=d_3c55210de27fcccda2ed0c63fdd2b352
+It was based on the Data.gov.sg, Graduate Employment Survey Dataset.
+
+
 
 The study covers overall employment versus permanent employment from National University of Singapore (NUS) and Nanyang Technological University of Singapore (Singapore).
 
