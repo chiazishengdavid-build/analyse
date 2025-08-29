@@ -14,6 +14,6 @@ The permanent employment percentages of graduates appears to be at steady 80% up
 
 
 ## Employment rates
-![NUS and NTU Employment Rates for the year 2019](figs/employment_rates.png)
+![NUS and NTU Employment Rates for the year 2019](Pie_Chart_NTU_NUS_2013_to_2023.png)
 
 The code was constructed using Python, Pandas and MatPlotLib.
