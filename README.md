@@ -1,4 +1,5 @@
- Major Universities' Graduate Employment Survey
+"Major Universities' Graduate Employment Survey"
+ 
 
 This was for my second semester assigbment.
 
@@ -10,5 +11,9 @@ The study covers overall employment versus permanent employment from National Un
 It counts and allows for yearly percentages of employment from 2013 to 2023.
 
 The permanent employment percentages of graduates appears to be at steady 80% up till 2023 in spite of the pandemic.
+
+
+## Employment rates
+![NUS and NTU Employment Rates for the year 2019](figs/employment_rates.png)
 
 The code was constructed using Python, Pandas and MatPlotLib.
